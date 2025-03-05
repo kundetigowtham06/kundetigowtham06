@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kundetigowtham06" alt="kundetigowtham06" /></a> </p>
 
-- 🌱 I’m currently learning **Numpy,pandas, Machine learning**
+- 🌱 I’m currently learning **FullStack WebDevelopmnt,DSA.....**
 
 - 📫 How to reach me **kundetigowtham@gmail.com**
 
