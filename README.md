@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kundetigowtham06" alt="kundetigowtham06" /></a> </p>
 
-- 🌱 I’m currently learning **FullStack WebDevelopmnt,DSA.....**
+- 🌱 I’m currently learning **FullStack WebDevelopment,DSA.....**
 
 - 📫 How to reach me **kundetigowtham@gmail.com**
 
