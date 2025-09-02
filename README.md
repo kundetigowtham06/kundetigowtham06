@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kundeti Satya Naga Gowtham</h1>
+<h1 align="center" color="008B8B">Hi 👋, I'm Kundeti Satya Naga Gowtham</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=30&duration=1800&pause=1200&color=008B8B&center=true&vCenter=true&width=700&lines=MERN+STACK+DEVELOPER;PASSIONATE+SOFTWARE+ENGINEER;ASPIRING+ML+ENGINEER;TECH+ENTHUSIAST" alt="Typing SVG"/>
 </p>
