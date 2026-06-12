@@ -21,14 +21,11 @@
   <a href="https://linkedin.com/in/kundeti satya naga gowtham">
     <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
   </a>
-  <a href="https://kaggle.com/kundeti gowtham">
-    <img src="https://skillicons.dev/icons?i=kaggle" width="50"/>
-  </a>
   <a href="https://instagram.com/k__ngowtham">
     <img src="https://skillicons.dev/icons?i=instagram" width="50"/>
   </a>
   <a href="https://www.hackerrank.com/kundeti gowtham">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" width="50"/>
+    <img src="https://skillicons.dev/icons?i=hackerrank" width="50"/>
   </a>
 </p>
 
